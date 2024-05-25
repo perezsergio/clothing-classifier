@@ -1,0 +1,13 @@
+# Ignore image dir (testing images)
+images/
+
+# Ignore data dir (files are too larbe)
+data/
+
+# Ignore everything in the models dir except for the final model
+models/*
+!models/
+!models/final_model.model
+
+.vscode
+__pycache__
