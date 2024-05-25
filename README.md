@@ -14,9 +14,14 @@ The goal of this project is to develop a model that classifies pictures of cloth
 
 ## Streamlit app
 The repo contains a script that can be used to run a streamlit app that showcases the model.
-This video shows the app's functionality.
+This video shows the app's functionality:
 
 [clothing-classifier-demo.webm](https://github.com/perezsergio/clothing-classifier/assets/129288111/aa7398bb-adff-49f3-a0ff-e9c4477235ab)
+
+Amd a couple more examples:
+![tshirt](https://github.com/perezsergio/clothing-classifier/assets/129288111/a81ad9b4-20be-4b71-8e29-e612df28c7b2)
+![dress](https://github.com/perezsergio/clothing-classifier/assets/129288111/a4b43afd-cb33-446d-b7ec-2245e921f375)
+
 
 To run the app locally from your computer, simply install the required python dependencies,
 either using `pip` and `requirements.txt` or `conda` and `enviroment.yaml`.
