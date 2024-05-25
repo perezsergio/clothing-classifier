@@ -33,7 +33,7 @@ a popular online clothing shop.
 Its name was chosen by their creators with the hope that it may one day replace the 
 boring old MNIST dataset as the new standard image classification dataset.
 
-## DL model
+## CNN Model
 The model used to classify the images is a CNN with 2 convoluted and 2 dense layers, implemented in tensorflow.
 The entire development is documented in the notebooks, 
 which cover the following topics:
