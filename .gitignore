@@ -1,5 +1,6 @@
 # Ignore image dir (testing images)
-images/
+images/test/
+images/dev/
 
 # Ignore data dir (files are too larbe)
 data/
